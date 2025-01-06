@@ -11,4 +11,4 @@ A Python-based stock price notifier that fetches and displays live stock data us
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<TanishGupta7>/StockNotifier.git
+   git clone https://github.com/TanishGupta7/StockNotifier.git
